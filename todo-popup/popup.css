@@ -1,0 +1,9 @@
+body{
+  width: 700px;
+  height: 700px;
+  background-color: cornflowerblue;
+}
+.sample-string{
+  color: rgb(222, 222, 222);
+  font-size: 30px;
+}
